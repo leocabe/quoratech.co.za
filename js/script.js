@@ -8,7 +8,7 @@ const BOOKS_DATA = [
         id: 1,
         title: "The Lessons Life Taught Me",
         description: "A raw and reflective journey through the hard-won wisdom that only lived experience can offer.",
-        price: "$19.99",
+        price: "R199",
         image: "images/book-1-lessons-life-taught-BEu7Zq9Pi9MF6RugehkWAe.webp"
     },
     {
@@ -22,28 +22,28 @@ const BOOKS_DATA = [
         id: 3,
         title: "The Silent Power of Discipline",
         description: "Discipline is not punishment — it is the quiet force that separates dreamers from achievers.",
-        price: "$24.99",
+        price: "R197",
         image: "images/book-3-silent-power-discipline-hbzLLjJZx9fNXYY2g88KPM.webp"
     },
     {
         id: 4,
         title: "The Long Road to Success",
         description: "Success rarely arrives on schedule. This is the story of patience, persistence, and the long game.",
-        price: "$29.99",
+        price: "R297",
         image: "images/book-4-long-road-success-TZDxkGZb5YseS4N6XY5m5q.webp"
     },
     {
         id: 5,
         title: "Stories That Shape Character",
         description: "Character is not born — it is built, story by story, through the choices we make under pressure.",
-        price: "$19.99",
+        price: "R399",
         image: "images/book-5-stories-shape-character-mpHUtp8tbtwmvi3eQiA49J.webp"
     },
     {
         id: 6,
         title: "The Mindset of Builders",
         description: "Builders think differently. This book decodes the mental frameworks behind every great creator and entrepreneur.",
-        price: "$24.99",
+        price: "R397",
         image: "images/book-6-mindset-builders-BLLY5ZByZyaSCHWizWJQwx.webp"
     },
     {
@@ -57,14 +57,14 @@ const BOOKS_DATA = [
         id: 8,
         title: "The Art of Starting Again",
         description: "Starting over is not a sign of failure — it is one of the bravest things a human being can do.",
-        price: "$24.99",
+        price: "R499",
         image: "images/book-8-art-starting-again-3DjJFb4k9pj9om5xCronYG.webp"
     },
     {
         id: 9,
         title: "The Power of One Decision",
         description: "How a single choice can rewrite your entire story and set a new trajectory for your life.",
-        price: "$14.99",
+        price: "R599",
         image: "images/book-9-power-one-decision-bagcQXYemnPZQg6Qvz6we7.webp"
     }
 ];
